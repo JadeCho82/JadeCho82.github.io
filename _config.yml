@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : "Discover everything"
-description              : "Discover everything—from everyday moments to cutting-edge technology"
+description              : "Discover everything—from everyday moments to cutting-edge technology."
 url                      : "https://discovereverything.github.io"
 baseurl                  : 
 repository               : 
